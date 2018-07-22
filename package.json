@@ -1,0 +1,13 @@
+{
+ "name": "test",
+ "description": "test",
+ "versoin": "0.0.0",
+ "main": "b.js
+ "scripts": {
+ "start": "node b.js
+ }.,
+ "dependencies": {
+  "discord.js": "11.1.0",
+  "request": "2.81.0"
+  }
+ } 
